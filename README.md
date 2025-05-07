@@ -56,7 +56,7 @@ Visual storytelling through graphs and heatmaps
 
  
  
- **1) SPOTIFY ANALYSIS**
+ **2) SPOTIFY ANALYSIS**
 
  **Project Overview**
  
