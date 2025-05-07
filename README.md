@@ -1,3 +1,5 @@
+ **1) SPOTIFY ANALYSIS**
+
  **Project Overview**
  
 In the era of digital music consumption, streaming platforms like Spotify collect a vast amount of user interaction data. However, extracting actionable insights from this data to understand user listening behavior, album popularity, artist engagement, and temporal trends remains a challenge.
@@ -63,7 +65,7 @@ Connect to the dataset if needed and refresh the visuals.
 
 Interact with filters and slicers to explore your music behavior.
 
-** **Future Improvements****
+ **Future Improvements**
 
 Integration of sentiment analysis for lyrics (if lyrics data is available)
 
