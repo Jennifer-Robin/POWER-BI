@@ -1,3 +1,61 @@
+**1)Blinkit Grocery Data Analysis Dashboard**
+
+ **Project Overview**
+
+With the rise of quick-commerce platforms like Blinkit, analyzing consumer behavior, product trends, and operational efficiency is crucial. This project explores transactional and operational data from Blinkit to uncover patterns in sales, product preferences, category performance, and delivery timelines.
+
+An interactive Power BI dashboard was created to visually communicate these insights to stakeholders for better decision-making in marketing, inventory, and logistics.
+
+**Dataset**
+
+File Name: BlinkIT Grocery Data.xlsx
+
+Source: Simulated Blinkit order data
+
+Structure: Includes order IDs, product details, quantities, prices, categories, order timestamps, and delivery metrics.
+
+
+ **Objectives**
+ 
+Understand product and category-level sales performance
+
+Track high-demand products and seasonal trends
+
+Analyze delivery efficiency and time-based order volumes
+
+Visualize key business metrics for executive-level reporting
+
+**Tools Used**
+
+Power BI – for dashboard development and visual analytics
+
+Microsoft Excel – for initial data exploration and cleaning
+
+
+ **Key Insights Highlighted**
+ 
+Top-performing products and categories
+
+Revenue and order trends over time
+
+Peak shopping hours and delivery times
+
+Average basket size and customer preferences
+
+ **Features of the Dashboard**
+ 
+Dynamic filters (category, product, date)
+
+KPI cards for revenue, orders, delivery time
+
+Category-wise breakdown with drill-down capabilities
+
+Visual storytelling through graphs and heatmaps
+
+
+
+ 
+ 
  **1) SPOTIFY ANALYSIS**
 
  **Project Overview**
